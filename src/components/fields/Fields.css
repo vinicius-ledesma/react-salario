@@ -1,0 +1,10 @@
+.default-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.label {
+  width: 500px;
+}
